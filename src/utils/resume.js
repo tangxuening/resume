@@ -5,7 +5,7 @@ export default {
         'gender': '男',
         'age': '25',
         'worklife': '1.5',
-        'label': 'different but not less',
+        'label': 'Different but not less',
         'picture': 'http://oaxfgzulv.bkt.clouddn.com/avatar.jpg',
         'email': '838432498@qq.com',
         'phone': '18333116993',
@@ -39,7 +39,7 @@ export default {
             'endDate': '2017-08',
             'summary': '北京鲜柚科技有限公司',
             'highlights': [
-                '庖丁项目开发组组',
+                '庖丁项目开发组',
                 '使用vue框架编写债有主官网',
                 '重构债有主微信网页版代码',
                 '开发相应债有主微信小程序',
@@ -57,7 +57,7 @@ export default {
             'website': '',
             'startDate': '2016.10',
             'endDate': '2017.03',
-            'summary': 'vue2.0 + vue-router + vuex + elementUI + webpack + es6 + postcss',
+            'summary': 'Vue2.0 + Vue-router + Vuex + elementUI + webpack + ES6 + postcss',
             'highlights': [
                 '基于 vue + elementUI 前端框架开发，采用 webpack 作为自动化构建工具',
                 '基于 nodejs 开发环境，使用 webpack 自动化构建工具，实时编译代码，热更新',
@@ -154,6 +154,7 @@ export default {
                 'Postcss',
                 'Webpack',
                 'Vue',
+                'React',
                 '微信小程序'
             ]
         },
@@ -162,7 +163,9 @@ export default {
             'level': 'master',
             'keywords': [
                 'Nodejs',
-                'PHP'
+                'express',
+                'PHP',
+                'thinkphp5.0'
             ]
         }
     ],
