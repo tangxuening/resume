@@ -11,12 +11,12 @@ export default {
         'phone': '18333116993',
         'website': 'https://github.com/zincode',
         'summary': [
-            '个人主攻 web 前端方向，有一定nodejs和php经验。',
+            '个人主攻 web 前端方向，有一定nodejs和php基础。',
             '喜欢关注 web 前端相关新技术，对于新技术有很强的学习兴趣。',
             '喜欢设计界面优美的程序',
             '热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐。'
         ],
-        'location': '石家庄市桥西区',
+        'location': '北京昌平区',
         'profiles': [
             {
                 'network': 'github',
@@ -126,20 +126,6 @@ export default {
                 'asdfasdf'
             ]
 
-        },
-        {
-            'name': 'm-mall-admin',
-            'publisher': 'skyvow',
-            'releaseDate': '2016-12',
-            'website': 'https://github.com/skyvow/m-mall-admin',
-            'summary': '微信小程序-小商城后台（基于 nodejs 实现 restful API）'
-        },
-        {
-            'name': 'skyvow.github.io',
-            'publisher': 'skyvow',
-            'releaseDate': '2017-4',
-            'website': 'https://github.com/skyvow/skyvow.github.io',
-            'summary': 'My resume - 基于 React + React-router + ES6 前端项目'
         }
     ],
     'skills': [
